@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Geo Out",
+    "slug": "GeoOut",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.jpg",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/geologo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "googleServicesFile": "./GoogleService-Info.plist",
+      "bundleIdentifier": "com.geo.out"
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "package": "com.geo.out",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/geologo.png",
+        "backgroundColor": "#000"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

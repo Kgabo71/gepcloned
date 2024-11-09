@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "680949235878",
+    "firebase_url": "https://fbkapp-2adde-default-rtdb.firebaseio.com",
+    "project_id": "fbkapp-2adde",
+    "storage_bucket": "fbkapp-2adde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680949235878:android:43167ea375a4fd125ff467",
+        "android_client_info": {
+          "package_name": "com.geo.out"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn5zyaR8_xOvL0IwemE02wkQMMaCqfhm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
